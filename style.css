@@ -3,6 +3,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #F0F2F5;
 }
+
+header{
+    position: fixed;
+}
 .Header_sections{
     height: 40px;
     /* background-color: #BBB595; */
@@ -111,6 +115,7 @@ body{
 /* ========================================================= */
 .body-elements-conteiner{
     display: flex;
+    padding-top: 50px;
 }
 
 
