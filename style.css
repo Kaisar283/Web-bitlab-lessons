@@ -6,6 +6,7 @@ body{
 
 header{
     position: fixed;
+    width: 100%;
 }
 .Header_sections{
     height: 40px;
